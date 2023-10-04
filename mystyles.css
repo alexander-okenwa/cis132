@@ -1,0 +1,11 @@
+body {background-color:#ff0000; font-family:Arial, sans-serif;}
+
+header {color:#000000;}
+
+section {background-color:#ff0000; width:100%; font-size:2em;}
+
+h1, h2, h3 {color:#ffffff;}
+
+nav(ul), ol {color:blue; padding-left: .5em;}
+
+footer {color:#ffffff}
